@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,8,1,21,23,25,27,28&height=250&section=header&text=Hello%20there%20👋&fontSize=60&fontAlign=32&fontAlignY=36&desc=HYOJIN's%20GitHub%20&descAlignY=55&descAlign=20" />
 
 <h3> About me </h3>
-<img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=Instagram&logoColor=white"> <img src="https://img.shields.io/badge/blog-000000?style=flat&logo=Tistory&logoColor=white"> <img src="https://img.shields.io/badge/portfolio-FF8800?style=flat&logo=Micro.blog&logoColor=white"> 
+<img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=Instagram&logoColor=white"> <img src="https://img.shields.io/badge/blog-000000?style=flat&logo=Tistory&logoColor=white"> <img src="https://img.shields.io/badge/portfolio-FF8800?style=flat&logo=Micro.blog&logoColor=white&url=https://hyosigo.tistory.com/"> 
 <br><br>
 <h3>🍄 Tech Stack 🍄</h3>
 <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"> 
