@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
+<!--
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,8,1,21,23,25,27,28&height=250&section=header&text=Hello%20there%20👋&fontSize=60&fontAlign=32&fontAlignY=36&desc=HYOJIN's%20GitHub%20&descAlignY=55&descAlign=20" />
+-->
 
 <h3> About me </h3>
 <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=Instagram&logoColor=white"> <img src="https://img.shields.io/badge/blog-000000?style=flat&logo=Tistory&logoColor=white"> <img src="https://img.shields.io/badge/portfolio-FF8800?style=flat&logo=Micro.blog&logoColor=white&url=https://hyosigo.tistory.com/"> 
@@ -31,7 +33,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white">
 <br><br><br>
 
-<br><br><br>
+
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=xy0jinn&hide=contribs,prs&show_icons=true&theme=vue" alt="Anurag's GitHub stats"></a>
